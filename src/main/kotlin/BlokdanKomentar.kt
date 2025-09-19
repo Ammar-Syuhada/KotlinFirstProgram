@@ -5,6 +5,6 @@ fun main(args: Array<String>) {
     Contoh komentar multi baris
       */
     /**
-     * Kotlin Doc --> Baris ini untuk mendokumentasikan kode program
+     * Kotlin Doc --> Baris ini untuk mendokumentasikan kode program 
      */
 }
